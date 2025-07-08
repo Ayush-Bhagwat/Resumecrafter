@@ -20,11 +20,12 @@ ResumeCrafter is a web application that allows users to **create, customise, and
 
 ## 🌐 Live Demo
 
-https://resumecrafter-u314.vercel.app/builder
+(https://resumecrafter-u314.vercel.app/)
 
 ## 📸 Screenshots
 
-![ResumeCrafter Screenshot](path/to/screenshot.png)
+![image](https://github.com/user-attachments/assets/f119a59b-4446-42d7-8229-3855db52a1ef)
+
 
 ## 🔧 Installation
 
